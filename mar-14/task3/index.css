@@ -1,0 +1,24 @@
+span.a{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid brown;
+    background-color: burlywood;
+   }
+   span.b{
+    display: block;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid brown;
+    background-color: burlywood;
+   }
+   span.c{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid brown;
+    background-color: burlywood;
+   }
